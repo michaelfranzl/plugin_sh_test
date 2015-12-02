@@ -1,0 +1,16 @@
+/* This file will be appended into the <head> section
+ * of the main SalorHospitality template.
+ */
+
+h2 {
+  color: #64C7A7;
+}
+
+body {
+  background-image: none;
+  background-color: #30576B;
+}
+
+div#main {
+  background-color: #415A67;
+}
